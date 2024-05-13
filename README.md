@@ -6,7 +6,7 @@
 
 # Installation:
 Téléchargez le repo avec un git clone et lancez le fichier "findandclick_better_test.py" (installez les bibliothèques manquantes), et commencez à pêcher!
-Le programme fonction même en arrière plan (fenêtre minimisée), vous pouvez laisser le programme pêcher pendant que vous faites autre chose.
+Le programme fonctionne même en arrière plan (fenêtre minimisée), vous pouvez laisser le programme pêcher pendant que vous faites autre chose.
 
 # Problèmes potentiels:
 Ce programme n'a été testé que par moi même à ce moment donc vous aurez des chances de tomber sur des problèmes.
