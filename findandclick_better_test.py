@@ -12,7 +12,8 @@ if __name__ == "__main__":
     list_wait_fish=[0.2,0.5,1.2,1.3,1.51,1,1,1,0.75,2,2.757546,2,2.1541,2.5,2]
     list_red_found=[0,0,0,0,0,0,0,0.1]
     random_list_click=np.linspace(0, 0.7, 50)
-    hwnd = win32gui.FindWindow(None, 'Paladium - juju2428282')
+    # syntaxe 'Paladium - YOURNAMEHERE' (without the quotes)(attention aux espaces et aux majuscules)
+    hwnd = win32gui.FindWindow(None, 'Paladium - YOURNAMEHERE')
     template_path = ("images/template_peche.png")
     print ("loaded")
     while True:
