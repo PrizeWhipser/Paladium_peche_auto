@@ -5,8 +5,14 @@
 ![template](https://github.com/Julien-ABADIE/Paladium_peche_auto/assets/145547169/d461eb3b-d676-4f79-a8a5-ea18d9181db4)
 
 # Installation:
-Téléchargez le repo avec un git clone et lancez le fichier "findandclick_better_test.py" (installez les bibliothèques manquantes), et commencez à pêcher!
+- Téléchargez le repo avec un git clone
+- Modifiez 'YOURNAMEHERE' par votre pseudo Mineccraft
+![image](https://github.com/Julien-ABADIE/Paladium_peche_auto/assets/145547169/73627e69-ebbd-4fc2-b71a-b6b6fc8574e2)
+- lancez le fichier "findandclick_better_test.py"
+- Installez les bibliothèques manquantes (si le programme ne démarre pas)
+- Commencez à pêcher!
 Le programme fonctionne même en arrière plan (fenêtre minimisée), vous pouvez laisser le programme pêcher pendant que vous faites autre chose.
+
 
 # Problèmes potentiels:
 Ce programme n'a été testé que par moi même à ce moment donc vous aurez des chances de tomber sur des problèmes.
