@@ -6,7 +6,7 @@
 
 # Installation:
 - Téléchargez le repo avec un git clone
-- Modifiez 'YOURNAMEHERE' par votre pseudo Mineccraft
+- Modifiez 'YOURNAMEHERE' par votre pseudo Minecraft
 ![image](https://github.com/Julien-ABADIE/Paladium_peche_auto/assets/145547169/73627e69-ebbd-4fc2-b71a-b6b6fc8574e2)
 - lancez le fichier "findandclick_better_test.py"
 - Installez les bibliothèques manquantes (si le programme ne démarre pas)
