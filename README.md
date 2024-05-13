@@ -4,7 +4,7 @@
 
 ![template](https://github.com/Julien-ABADIE/Paladium_peche_auto/assets/145547169/d461eb3b-d676-4f79-a8a5-ea18d9181db4)
 
-# installation:
+# Installation:
 Téléchargez le repo avec un git clone et lancez le fichier "findandclick_better_test.py" (installez les bibliothèques manquantes), et commencez à pêcher!
 Le programme fonction même en arrière plan (fenêtre minimisée), vous pouvez laisser le programme pêcher pendant que vous faites autre chose.
 
