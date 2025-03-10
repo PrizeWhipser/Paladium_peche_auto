@@ -25,4 +25,4 @@ Un autre problème peut venir de la résolution (le programme n'a été testé q
 Si vous avez un problème quelconque, n'hésitez pas à créer un ticket en fournissant l'erreur venant du code ainsi que votre configuration système (svpppp je veux pas un Titouan qui demande comment on fait pour lancer un programme python car il sait pas comment faire, google est votre ami).
 
 # Demande d'ajout de fonctionnalités:
-Une fonctionalité manquante? Suggérez la! Si une fonctionalité est demandée asseez souvent, je l'ajouterai peut-être.
+Une fonctionalité manquante? Suggérez la! Si une fonctionalité est demandée assez souvent, je l'ajouterai peut-être.
